@@ -26,9 +26,9 @@ let Arrayobject=[{
     <h1>{Arrayobject.map((arr)=>{
       return(
         <>
-            <h1><strong>Name:</strong>{arr.Name}</h1>
-            <h1><strong>Address:</strong>{arr.Address}</h1>
-            <h1><strong>Phone_no:</strong>{arr.Phone_no}</h1>
+            <h2><strong>Name:</strong>{arr.Name}</h2>
+            <h2><strong>Address:</strong>{arr.Address}</h2>
+            <h2><strong>Phone_no:</strong>{arr.Phone_no}</h2>
 
 
        </>
